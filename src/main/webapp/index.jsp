@@ -12,7 +12,9 @@
         <title>JSP Page</title>
     </head>
     <body>
+        
         <h1>fua</h1>
+        <h1>fua2</h1>
         <form action="NewServlet" method="post">
         <label>esto es un label</label><br>
          <input type="text" name="nombre"><br>
